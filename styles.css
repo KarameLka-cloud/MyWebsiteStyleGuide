@@ -17,9 +17,12 @@ h2 {
     margin: 16px 10px;
 }
 
+
+/* Добавление блока "Colors" */
+
 .colors {
     border: 2px solid black;
-
+    margin: 10px 0;
 }
 
 .color-container {
@@ -48,3 +51,12 @@ h2 {
 .beige {
     background-color: #efd9ca;
 }
+
+
+/* Добавление блока "Fonts" */
+
+.fonts {
+    border: 2px solid black;
+    margin: 15px 0;
+}
+
