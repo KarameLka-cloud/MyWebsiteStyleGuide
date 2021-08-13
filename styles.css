@@ -21,8 +21,8 @@ h2 {
 /* Добавление блока "Colors" */
 
 .colors {
-    border: 2px solid black;
     margin: 10px 0;
+    border: 2px solid black;
 }
 
 .color-container {
@@ -52,6 +52,9 @@ h2 {
     background-color: #efd9ca;
 }
 
+.info {
+    padding: auto;
+}
 
 /* Добавление блока "Fonts" */
 
@@ -60,3 +63,6 @@ h2 {
     margin: 15px 0;
 }
 
+.fonts-container {
+    
+}
