@@ -17,12 +17,23 @@ h2 {
     margin: 16px 10px;
 }
 
+.container {
+    border: 2px solid black;
+    margin: 15px 0;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
 
 /* Добавление блока "Colors" */
 
 .colors {
     margin: 10px 0;
-    border: 2px solid black;
 }
 
 .color-container {
@@ -52,17 +63,14 @@ h2 {
     background-color: #efd9ca;
 }
 
-.info {
-    padding: auto;
-}
 
 /* Добавление блока "Fonts" */
 
-.fonts {
-    border: 2px solid black;
-    margin: 15px 0;
+.font-container {
+    margin: 10px 10px 20px 10px;
 }
 
-.fonts-container {
+.font-panel {
+    display: inline-block;
     
 }
